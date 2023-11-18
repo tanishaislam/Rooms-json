@@ -1,0 +1,478 @@
+[
+  {
+    "_id": "654f6d935abba09d18da69cb",
+    "location": "Canterbury, United Kingdom",
+    "title": "Bumble Barn at Great Field Farm",
+    "from": "2023-11-27T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 305,
+    "guests": "6",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "description": "Great Field Farm is set in 45 acres, including gardens, paddocks and the great field with different crops each year.\nBumble Barn is the newest addition to our eco-friendly  holiday lodges. Built to Passiv house standards with smart technology and a beautiful living sedum roof that bees love.\nThe views from the sitting room and patio over open fields and sky are stunning, with wildlife all around",
+    "image": "https://i.ibb.co/f1494DN/london.webp",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Modern"
+  },
+  {
+    "_id": "654f6d935ee09d18da69cb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 269,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/6ZqZq6q/Dreamy-beaches-in-middle-east.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935fff09d18da69cb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 409,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/qRK4Bs3/hotel-scandic-holmenkollen-park-oslo-eastern-norway-photo-scandic-hotels-6963b00e-e981-4f39-af74-cfa.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "mediam"
+  },
+  {
+    "_id": "654f6d935ggf09d18da69cb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 258,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/rm4Hf6n/istockphoto-1299710067-612x612.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://i.ibb.co/rm4Hf6n/istockphoto-1299710067-612x612.jpg",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Premiam"
+  },
+
+  {
+    "_id": "654f6d935hhf09d18da69cb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 999,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/3WsF4nk/pexels-photo-4612307.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://i.ibb.co/rpNy9jj/449594537.jpg",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935iif09d18da69cb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 929,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/c1ySHx2/hotel-389256-640.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://i.ibb.co/H28Vc6s/istockphoto-1355094373-612x612.jpg",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Modern"
+  },
+  {
+    "_id": "654f6d935jjf09d18da69cb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 569,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/BsW4K3t/360-F-329182658-i-NRcnv-Q13-Oh-NK00-Br-PDZG5wz-Lr-Ctraf-Q.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://i.ibb.co/c1ySHx2/hotel-389256-640.jpg",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935kkf09d18da69cb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 109,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/ZNd53CF/s-l1600.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935llf09d18da69cb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 500,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/M6mBkXT/Avalon-Beach.webp",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935llf09d18dasggb",
+    "location": "Gaular, Norway",
+    "title": "Dream beach resturent",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 200,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/g64Bmx3/dinner.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935llf09d18dhhjgb",
+    "location": "Gaular, Norway",
+    "title": "Breathtaking Mountain views in cozy Birdbox",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 469,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/NVQKL0P/amazing-romantic-dinner-on-beach-600nw-1714583281.webp",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935llf09dsgghjjhjgb",
+    "location": "Gaular, Norway",
+    "title": "Dramatic liting system resturent ",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 369,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/HDHRHV1/Restaurants-with-a-View.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935lf09dsgghjjsgb",
+    "location": "Gaular, Norway",
+    "title": "Dramatic liting system resturent ",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 709,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/LnQLcn1/360-F-48953744-LCM4s1ld183j55-YTBKzo6-ZMEB3m2oa70.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935llf09dsgdhjjsgb",
+    "location": "Gaular, Norway",
+    "title": "amazing romantic dinner on beach",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 209,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/bBKVVp1/cover-image-beachfront-restaurants-in-Abu-Dhabi.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Beach"
+  },
+  {
+    "_id": "654f6d935llf0sdsgghjjsgb",
+    "location": "Gaular, Norway",
+    "title": "Wonderful Windmills From Around the World",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 509,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/7Sr0McR/windmill26.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "654f6d935llf0sdsgssjjsgb",
+    "location": "Gaular, Norway",
+    "title": "sunflower Wonderful Windmills From Around the World",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 509,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/Fx4GG1C/windmill09.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "654f6d935556f0sdsgssjjsgb",
+    "location": "Gaular, Norway",
+    "title": "sunflower Wonderful Windmills From Around the World",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 5029,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/5KH4LHC/windmill15.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "654f6d935556f0sdgssjjsgb",
+    "location": "Gaular, Norway",
+    "title": "sunflower Wonderful Windmills From Around the World",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 5029,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/y8m8CF7/windmills-1048981-640.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "654f62535556f0sdgssjjsgb",
+    "location": "Gaular, Norway",
+    "title": "sunflower Wonderful Windmills",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 5029,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/PN0jGcV/stock-photo-photograph-classic-vintage-windmill-holland.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "654f625355f0sdgssjjsgb",
+    "location": "Gaular, Norway",
+    "title": "Take a Look Inside DeZwaan Windmill in Holland",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 5029,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/bNdSfKG/DM-ss-17-Holland-De-Zwaan-Windmill-and-Tulips-02-Drew-Mason.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "654f625355fdgssjjsgb",
+    "location": "Gaular, Norway",
+    "title": "Take a Look Inside DeZwaan Windmill in Holland",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 5029,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/5YZbCX7/istockphoto-522382133-612x612.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "654f62535502fdgssjjsgb",
+    "location": "Gaular, Norway",
+    "title": "Take a Look Inside DeZwaan Windmill in Holland",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 829,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/z8MPWD4/istockphoto-1356342664-170667a.webp",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "6545662535502fdgssjjsgb",
+    "location": "Gaular, Norway",
+    "title": "Take a Look Inside DeZwaan Windmill in Holland",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 829,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/pJG14Zz/stock-photo-windmills-at-kinderdijk-in-holland-netherlands.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "6545662535502fdg02jjsgb",
+    "location": "Gaular, Norway",
+    "title": "Take a Look Inside DeZwaan Windmill in Holland",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 829,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/x2w2p3g/19002678508-8df87a6086-c.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  },
+  {
+    "_id": "6545662535502fdg0jjsgb",
+    "location": "Gaular, Norway",
+    "title": "Take a Look Inside DeZwaan Windmill in Holland",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 829,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/sQh05Cd/netherlands-1945177-640.jpg",
+    "host": {
+      "name": "Shakil Ahmed Atik",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpxSpFQvm4fucJxMSOYG07EY-4eEqymED0zn2w8hBgHw=s96-c",
+      "email": "shakilatik.ph@gmail.com"
+    },
+    "category": "Windmills"
+  }
+]
